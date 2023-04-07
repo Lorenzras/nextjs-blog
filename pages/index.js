@@ -13,8 +13,7 @@ export default function Home() {
           You can contact me on <a href="https://twitter.com/lenz_">Twitter</a>.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This is my first Nextjs 13 app. I love technology, and I like documenting how I learned them.
         </p>
       </section>
     </Layout>
